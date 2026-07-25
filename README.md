@@ -1,12 +1,16 @@
-# **Cemu - Android Port (Wii U Emulator)**
+# **Cemu - Android 10 Port (Wii U Emulator)**
 
-This is the Android port of **Cemu**, a Wii U emulator written in C/C++.
+This is the Android 10 port of **Cemu**, a Wii U emulator written in C/C++.
 It is still early and experimental. Stability, performance, and features are not guaranteed, and some functionality may be missing compared to the desktop version.
 
 There is no timeline for when this port will be finished or when new features will be implemented.
 
-**Please do not open issues or pull requests yet.**
-Development is ongoing, and contributions will be welcome once the project is more stable.
+## Compatibility 
+Games that may run smoothly:
+Unknown.
+
+**Please open issues or pull requests.**
+Development is ongoing, and contributions will be welcome.
 
 For general information about Cemu, see the [official website](https://cemu.info) and [main repository](https://github.com/cemu-project/Cemu).
 
