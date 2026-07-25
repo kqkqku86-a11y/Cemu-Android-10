@@ -46,7 +46,7 @@ android {
     ndkVersion = "29.0.14206865"
     defaultConfig {
         applicationId = "info.cemu.cemu"
-        minSdk = 30
+        minSdk = 29
         targetSdk = 35
         versionName = getVersionName()
         versionCode = 1
